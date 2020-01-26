@@ -1,0 +1,4 @@
+name: RandomDrops
+version: ${project.version}
+author: Dart2112
+main: net.lapismc.randomdrops.RandomDrops

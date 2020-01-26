@@ -1,0 +1,16 @@
+ConfigVersion: 1
+
+#Add drops from loot tables, a list of possible values is at
+#https://hub.spigotmc.org/javadocs/spigot/org/bukkit/loot/LootTables.html
+LootDrops:
+  - "ABANDONED_MINESHAFT"
+  - "BURIED_TREASURE"
+  - "DESERT_PYRAMID"
+  - "END_CITY_TREASURE"
+  - "IGLOO_CHEST"
+  - "MASON_GIFT"
+  - "PILLAGER_OUTPOST"
+  - "SHIPWRECK_TREASURE"
+  - "SIMPLE_DUNGEON"
+  - "STRONGHOLD_CORRIDOR"
+  - "WOODLAND_MANSION"
